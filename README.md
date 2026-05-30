@@ -24,6 +24,8 @@ Focuses on macro-level global health indicators to establish baseline global tre
 * Global Life Expectancy & Healthcare Spending timelines showing long-term historical growth.
    * Ranked comparison of countries with the highest infant mortality rates per 1,000 births.
    * Top 10 countries ranked by the highest average life expectancy.
+  <img width="1600" height="898" alt="image" src="https://github.com/user-attachments/assets/0a29cd2e-014e-4e16-be58-9f020300bdca" />
+
 
 ## Page 2: Healthcare Infrastructure Analysis
 Investigates the direct correlation between financial investment levels and systemic health improvements over time.
@@ -31,6 +33,7 @@ Investigates the direct correlation between financial investment levels and syst
 * Key Visuals:
 * Annual Change in Child & Infant Mortality Rates: A dual line chart highlighting historical reduction rates.
    * Investment vs. Outcome: A combination column and line chart comparing total health investments against life expectancy growth by year.
+<img width="1600" height="899" alt="image" src="https://github.com/user-attachments/assets/eec44d90-0022-4149-bd59-f6f48241766b" />
 
 ## Page 3: Country Health Profile
 An interactive deep-dive view allowing users to isolate individual countries or regions to view specific healthcare indicators.
@@ -41,6 +44,7 @@ An interactive deep-dive view allowing users to isolate individual countries or 
    * Child Mortality Analysis: Comparative breakdown of youth health outcomes.
    * Gender Analysis: Side-by-side comparison of male vs. female life expectancy trends.
    * Healthcare Resources Availability: Analysis of physical infrastructure constraints (e.g., hospital beds, physicians per capita).
+<img width="1600" height="899" alt="image" src="https://github.com/user-attachments/assets/aa53d352-0ce1-424d-8edd-5cd1eb90a850" />
 
 ------------------------------
 ## 📈 Key Insights Discovered

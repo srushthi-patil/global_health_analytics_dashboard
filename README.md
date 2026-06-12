@@ -1,4 +1,3 @@
-Here is a professional markdown template for your GitHub README.md file. It organizes the information into a scannable structure that tells recruiters exactly what you built, how you built it, and the value it provides.
 ------------------------------
 ## Global Health Analytics & Healthcare Infrastructure Dashboard
 A comprehensive Power BI data analytics project exploring global health trends, life expectancy drivers, healthcare spending efficiency, and infrastructure availability across multiple decades.
